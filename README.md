@@ -13,39 +13,42 @@ I currently work at [LesFabricants](https://lesfabricants.io) as a fullstack web
   <img alt="github-snake" src="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
 </picture>
 
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=vic1707&theme=dracula&count_private=true&show_icons=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=vic1707&count_private=true&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=vic1707&theme=dracula&count_private=true&show_icons=true" />
-</picture>
-
-<picture>
-  <source 
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=vic1707&theme=dracula"
+<p>
+  <picture class="ghStats">
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=vic1707&theme=dracula&count_private=true&show_icons=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=vic1707"
+    srcset="https://github-readme-stats.vercel.app/api?username=vic1707&count_private=true&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vic1707&theme=dracula" />
-</picture>
-
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vic1707&theme=dracula&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vic1707&count_private=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vic1707&theme=dracula&count_private=true" />
-</picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=vic1707&theme=dracula&count_private=true&show_icons=true" />
+  </picture>
+</p>
+<p>
+  <picture class="streak">
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=vic1707&theme=dracula"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=vic1707"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vic1707&theme=dracula" />
+  </picture>
+</p>
+<p>
+  <picture class="lang">
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vic1707&theme=dracula&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vic1707&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vic1707&theme=dracula&count_private=true" />
+  </picture>
+</p>
