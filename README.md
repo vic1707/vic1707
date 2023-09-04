@@ -1,11 +1,12 @@
 ### Hi there, I'm [vic1707](https://vic1707.xyz) 👋
 
-## I'm an engineering student and fullstack web developer.
-I currently work at [LesFabricants](https://lesfabricants.io) as a fullstack web developer in a work-study program at [JUNIA ISEN](https://isen.fr).
+## I currently work at [Zenika](https://zenika.com/fr-FR/agency/lille) as a fullstack consultant.
+
+Nothing to say in particular, just some good looking stats.
 
 ![](https://img.shields.io/github/stars/vic1707?style=flat-square) ![](https://img.shields.io/github/followers/vic1707?style=flat-square)
 
-# 📊 GitHub Stats :
+### 📊 GitHub Stats :
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake-dark.svg">
