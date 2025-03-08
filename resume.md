@@ -35,9 +35,9 @@ DevOps: Large-scale cloud infrastructures (e.g., GCP, Azure, AWS)
 
 _sept. 2023 - present_
 
-Location: Lille, Hauts-de-France, France · Hybrid
+_Location:_ Lille, Hauts-de-France, France · Hybrid
 
-Role: Consultant, Fullstack Developer, Speaker
+_Role:_ Consultant, Fullstack Developer, Speaker
 
 #### Projects
 
@@ -69,9 +69,9 @@ _A data aggregator for Adeo's supply chain domain. Aggregating data from multipl
 
 _sept. 2020 - août 2023_
 
-Location: Roubaix & Croix, Hauts-de-France, France · Hybrid
+_Location:_ Roubaix & Croix, Hauts-de-France, France · Hybrid
 
-Role: Fullstack Developer
+_Role:_ Fullstack Developer
 
 ### Projects
 
@@ -91,9 +91,9 @@ _One of ONEY's in-house project management application._
 
 _sept. 2019 - june 2020_
 
-Location: Capinghem, Hauts-de-France, France · On site
+_Location:_ Capinghem, Hauts-de-France, France · On site
 
-Role: Private Installer
+_Role:_ Private Installer
 
 # Side projects & OSS
 
@@ -185,9 +185,9 @@ Found an issue in the `quiet` install mode, refactored said mode.
 #### [Master of Science and Engineering](https://www.junia.com/fr/attestation-diplome/?key=DC0977B70D7111F0EB89F46B3E35A16AAAD24718B796EC999C793B96C38D6804WFF2Sjl5aFpiYUZRdENuWVdZc3ZjQm5YUHBBdUJDdkxNaE95M1ZoRVdmUTM2U1V2)
 
 _sept. 2020 - august 2023_
-JUNIA-ISEN · Lille
+_Location:_ JUNIA-ISEN · Lille
 
 #### BTS Systèmes Numériques Informatiques et Réseaux
 
 _sept. 2018 - june 2020_
-Lycée Ozanam · Lille
+_Location:_ Lycée Ozanam · Lille
