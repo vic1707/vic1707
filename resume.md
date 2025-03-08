@@ -47,12 +47,6 @@ _Web-based career management platform for consultants._
 
 **Stack**: Typescript, React, Quarkus, Neo4j
 
-#### <img src="https://zenika.com/static/images/favicon-16x16.png" /> Zenika · Zenillard · (Project lead, Python developer)
-
-_A one week ProofOfConcept project aiming to provide a way to share replays of Zenika's pool table best and worse moments._
-
-**Stack**: Python
-
 #### <img src="https://www.adeo.com/wp-content/themes/adeoptim/inc/favicons/favicon-16x16.png" /> [Adeo](https://www.adeo.com/) · LPI · (Fullstack Typescript)
 
 _A product storing and validating information (dimensions, class, hazard level, etc...) about sold products and their transport packages._
