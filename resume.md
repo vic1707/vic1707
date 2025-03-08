@@ -37,7 +37,7 @@ _sept. 2023 - present_
 
 _Location:_ Lille, Hauts-de-France, France · Hybrid
 
-_Role:_ Consultant, Fullstack Developer, Speaker
+_Role:_ Consultant, Fullstack Developer, Trainer
 
 #### Projects
 
