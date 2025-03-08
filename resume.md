@@ -119,7 +119,7 @@ _Role:_ Private Installer
 # Side projects & OSS
 
 I actively engage with open-source projects by using them in my work and contributing improvements whenever I spot opportunities. Depending on my confidence and expertise, I either open pull requests with fixes and enhancements or share suggestions and ideas through issues.
-(For a full history of my contributions, please refer to my GitHub profile.)
+(For a full history of my contributions, please refer to my [GitHub profile](https://github.com/vic1707).)
 
 ## <img alt="Rust projects" src="https://img.shields.io/badge/Rust_projects-_?style=for-the-badge&color=555555&logo=rust">
 
@@ -165,37 +165,38 @@ An [asdf](https://asdf-vm.com) plugin for installing any Rust-based tool availab
 
 <img alt="OSS Contributions" src="https://img.shields.io/badge/OSS_Contributions-_?style=for-the-badge&color=555555&logo=opensourceinitiative">
 
-#### [rust-delegate](https://github.com/Kobzol/rust-delegate)
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" height=16 /> [rust-delegate](https://github.com/Kobzol/rust-delegate)
 
 _[#81](https://github.com/Kobzol/rust-delegate/pull/81) [#82](https://github.com/Kobzol/rust-delegate/pull/82)_
 
 Add two new attributes to delegation, one being the revival of a 3yo issue.
 
-#### [defmt](https://github.com/knurling-rs/defmt)
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" height=16 /> [defmt](https://github.com/knurling-rs/defmt)
 
 _[#937](https://github.com/knurling-rs/defmt/pull/937)_
 
 Add a new derive macro attribute targeting the well known new-type pattern.
 
-### [buoyant](https://github.com/riley-williams/buoyant)
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" height=16 /> [buoyant](https://github.com/riley-williams/buoyant)
 
 _[#28](https://github.com/riley-williams/buoyant/pull/28) [#29](https://github.com/riley-williams/buoyant/pull/29) [#43](https://github.com/riley-williams/buoyant/pull/43)_
+
 Suggested API, code clarity and project configuration improvements.
 
-### [auto_enums](https://github.com/taiki-e/auto_enums)
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" height=16 /> [auto_enums](https://github.com/taiki-e/auto_enums)
 
 _[#164](https://github.com/taiki-e/auto_enums/pull/164)_
 
 Added a new derive for the `Into` trait, further imroving the capabilities of `auto_enums`.
 _Note:_ A second one with `TryFrom` is on its way.
 
-### [docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn)
+#### <img src="https://dwglogo.com/wp-content/uploads/2019/03/1800px-gnu_bash_logo.png" height=20 /> [docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn)
 
 _[#2875](https://github.com/haugene/docker-transmission-openvpn/pull/2875) [#2887](https://github.com/haugene/docker-transmission-openvpn/pull/2887)_
 
 Provided fixes and enhancements for better container behavior and usability.
 
-### [rustup](https://github.com/rust-lang/rustup)
+#### <img src="https://dwglogo.com/wp-content/uploads/2019/03/1800px-gnu_bash_logo.png" height=20 /> [rustup](https://github.com/rust-lang/rustup)
 
 _[#3350](https://github.com/rust-lang/rustup/issues/3350)_
 
@@ -206,9 +207,11 @@ Found an issue in the `quiet` install mode, refactored said mode.
 #### [Master of Science and Engineering](https://www.junia.com/fr/attestation-diplome/?key=DC0977B70D7111F0EB89F46B3E35A16AAAD24718B796EC999C793B96C38D6804WFF2Sjl5aFpiYUZRdENuWVdZc3ZjQm5YUHBBdUJDdkxNaE95M1ZoRVdmUTM2U1V2)
 
 _sept. 2020 - august 2023_
-_Location:_ JUNIA-ISEN · Lille
+
+_Location:_ JUNIA-ISEN · Lille · France
 
 #### BTS Systèmes Numériques Informatiques et Réseaux
 
 _sept. 2018 - june 2020_
-_Location:_ Lycée Ozanam · Lille
+
+_Location:_ Lycée Ozanam · Lille · France
