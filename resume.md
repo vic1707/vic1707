@@ -1,7 +1,6 @@
 # Victor LEFEBVRE [<img height=20 width=20 src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" />](https://github.com/vic1707) [<img height=20 width=20 src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />](http://www.linkedin.com/in/vic1707)
 
-_Tinker is understanding, understanding is learning._
----
+## _Tinker is understanding, understanding is learning._
 
 _Current position:_ [Zenika](https://zenika.com/fr-FR/agency/lille) as a fullstack consultant · Open to opportunities.
 
@@ -47,17 +46,35 @@ _Web-based career management platform for consultants._
 
 **Stack**: Typescript, React, Quarkus, Neo4j
 
+##### _Missions:_
+
+Migration of the application to Typescript and latest React version.
+Writing documentation for future onboardings.
+Improve database interactions leading to a 2x speed-up in certain areas.
+Creation of a CI/CD pipeline for automatic deployments and checks on the code.
+
 #### <img src="https://www.adeo.com/wp-content/themes/adeoptim/inc/favicons/favicon-16x16.png" /> [Adeo](https://www.adeo.com/) · LPI · (Fullstack Typescript)
 
 _A product storing and validating information (dimensions, class, hazard level, etc...) about sold products and their transport packages._
 
 **Stack**: Typescript, Vuejs, NestJS, PostgreSql, Kafka, Cucumber
 
+##### _Missions:_
+
+Bug fixes, add new features and refactor previously existing code by following clean code practices.
+Handle major version bump in kafka and database schemas.
+Process data from its entry in Adeo's systems to its publication once validated.
+
 #### <img src="https://www.adeo.com/wp-content/themes/adeoptim/inc/favicons/favicon-16x16.png" /> [Adeo](https://www.adeo.com/) · SPA · (Fullstack Typescript)
 
 _A data aggregator for Adeo's supply chain domain. Aggregating data from multiple sources to provide centralized responses._
 
 **Stack**: Typescript, NestJS, GraphQL, Cucumber
+
+##### _Missions:_
+
+Bug fixes, add new features while keeping a keen eye on performance, caching.
+Help maintain readable codebase, clean code and design patterns principles, allowing a great granularity in configuration options.
 
 ## <img src="https://cdn.prod.website-files.com/65b0d40ceac33e8d1e6f84e0/65c4b6b37709fc3e7735b9a8_logo-favicon.svg" /> [Les Fabricants](https://www.lesfabricants.io) · (Internship)
 
@@ -73,13 +90,23 @@ _Role:_ Fullstack Developer
 
 _A web application allowing a complete view & management of every team and individual's skills set/calendar/resume/certifications etc..._
 
-**Stack**: Typescript/Javascript, Angular (1.0 & 16.0), PHP, MongoDB
+**Stack**: Typescript/Javascript, Angular (v1.3 & v16.0), PHP, MongoDB
+
+##### _Missions:_
+
+Dockerization of the dev setup, leading to a significant speedup for the onboarding process of new developers.
+Participate in the complete rewrite of the legacy frontend (AngularJS v1.3 -> Angular v16) while maintaining and contributing to the original application.
 
 #### <img src="https://www.oney.fr/favicon.ico" /> [ONEY](https://www.oney.fr) · HIVE · (Fullstack Typescript)
 
 _One of ONEY's in-house project management application._
 
 **Stack**: Typescript, Angular, NestJS, MongoDB
+
+##### _Missions:_
+
+Bug fixes, add new features while keeping a keen eye on security (e.g.: ISO 27001) and performance.
+Creation of a project's storybook & library for easier components development and developers/designers reviews.
 
 ## <img height=32 width=32 src="https://i0.wp.com/exacom.fr/wp-content/uploads/2018/05/Logo-EXACOM-rvb-pp.png" /> [Exacom](https://exacom.fr) · (Internship)
 
