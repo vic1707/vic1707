@@ -1,0 +1,8 @@
+{
+  "markdown-pdf.headerTemplate": " ",
+  "markdown-pdf.format": "A4",
+  "markdown-pdf.margin.top": "1.5cm",
+  "markdown-pdf.margin.bottom": "1cm",
+  "markdown-pdf.margin.right": "1cm",
+  "markdown-pdf.margin.left": "1cm"
+}
