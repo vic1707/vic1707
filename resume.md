@@ -1,30 +1,37 @@
 # Victor LEFEBVRE [<img height=20 width=20 src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" />](https://github.com/vic1707) [<img height=20 width=20 src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />](http://www.linkedin.com/in/vic1707)
 
-## _Tinker is understanding, understanding is learning._
+##### _Tinkering is understanding, understanding is learning._
 
-_Current position:_ [Zenika](https://zenika.com/fr-FR/agency/lille) as a fullstack consultant · Open to opportunities.
+### Open to opportunities.
 
-_Location:_ Lille, France.
-_Relocation:_ Open to remote work, can adapt to timezone. Not open to relocate.
-_Languages:_ French (native), English (working proficiency)
+_💼 Current position:_ [Zenika](https://zenika.com/fr-FR/agency/lille) as a fullstack consultant
 
-<details>
-<summary>Stacks & Languages I'm familiar/at ease with</summary>
+_📍 Location:_ Lille, France (Open to remote work, adaptable to time zones) **🚫 Not Open to Relocation**
 
-**Languages**: Rust, Javascript, TypeScript, Python, Bash  
-**Frameworks**: _Any javascript/typescript frontend framework_, NestJS  
-**DevOps**: Docker/Podman, Kubernetes, CI/CD, GitHub Actions
+---
 
-### What I'm open to work with
+## _🎯 Desired Position:_ Fullstack Engineer / Software Consultant / OSS Developer
 
-Code: Anything you can throw at me!
+### _🔎 What I’m looking for:_
 
-### What I prefer not to touch in my future job
+To have fun in my day to day job, continuous learning, tough and new challenges.
 
-Code: in-house unknown frameworks
-DevOps: Large-scale cloud infrastructures (e.g., GCP, Azure, AWS)
+Be given the time to do things well, having an eye on maintainability, performances, and clean code/architecture.
 
-</details>
+### _Skills:_
+
+_Tech:_ 
+  - _Languages:_ Rust, Javascript, TypeScript, Python, Bash  
+  - _Frameworks:_ React, Vue, Angular, Astro, NestJS  
+  - _DevOps:_ Docker/Podman, Kubernetes, CI/CD, GitHub Actions
+
+_Soft Skills:_ Problem-solving · Autonomy · Curiosity · Strong technical adaptability · Clear communication
+
+### _🚫 What I prefer not to work with:_
+
+In-house, undocumented frameworks/languages.
+
+I don't like interacting with large-scale cloud infrastructures (e.g., GCP, Azure, AWS).
 
 ---
 
