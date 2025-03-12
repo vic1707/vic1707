@@ -185,7 +185,7 @@ An [asdf](https://asdf-vm.com) plugin for installing any Rust-based tool availab
 
 _[#81](https://github.com/Kobzol/rust-delegate/pull/81) [#82](https://github.com/Kobzol/rust-delegate/pull/82)_
 
-Add two new attributes to delegation, one being the revival of a 3yo issue.
+Add two new attributes to delegation, one being the revival of a 2yo issue.
 
 #### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" height=16 /> [defmt](https://github.com/knurling-rs/defmt)
 
