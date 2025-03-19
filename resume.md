@@ -206,13 +206,13 @@ _[#164](https://github.com/taiki-e/auto_enums/pull/164)_
 Added a new derive for the `Into` trait, further imroving the capabilities of `auto_enums`.
 _Note:_ A second one with `TryFrom` is on its way.
 
-#### <img src="https://dwglogo.com/wp-content/uploads/2019/03/1800px-gnu_bash_logo.png" height=20 /> [docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn)
+#### <img src="https://img.icons8.com/?id=9MJf0ngDwS8z" height=16 /> [docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn)
 
 _[#2875](https://github.com/haugene/docker-transmission-openvpn/pull/2875) [#2887](https://github.com/haugene/docker-transmission-openvpn/pull/2887)_
 
 Provided fixes and enhancements for better container behavior and usability.
 
-#### <img src="https://dwglogo.com/wp-content/uploads/2019/03/1800px-gnu_bash_logo.png" height=20 /> [rustup](https://github.com/rust-lang/rustup)
+#### <img src="https://img.icons8.com/?id=9MJf0ngDwS8z" height=16 /> [rustup](https://github.com/rust-lang/rustup)
 
 _[#3350](https://github.com/rust-lang/rustup/issues/3350)_
 
