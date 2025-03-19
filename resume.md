@@ -204,6 +204,7 @@ Suggested API, code clarity and project configuration improvements.
 _[#164](https://github.com/taiki-e/auto_enums/pull/164)_
 
 Added a new derive for the `Into` trait, further imroving the capabilities of `auto_enums`.
+
 _Note:_ A second one with `TryFrom` is on its way.
 
 #### <img src="https://img.icons8.com/?id=9MJf0ngDwS8z" height=16 /> [docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn)
