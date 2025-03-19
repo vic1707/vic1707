@@ -195,7 +195,7 @@ Add a new derive macro attribute targeting the well known new-type pattern.
 
 #### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" height=16 /> [buoyant](https://github.com/riley-williams/buoyant)
 
-_[#28](https://github.com/riley-williams/buoyant/pull/28) [#29](https://github.com/riley-williams/buoyant/pull/29) [#43](https://github.com/riley-williams/buoyant/pull/43)_
+_[#28](https://github.com/riley-williams/buoyant/pull/28) [#29](https://github.com/riley-williams/buoyant/pull/29) [#43](https://github.com/riley-williams/buoyant/pull/43) [#64](https://github.com/riley-williams/buoyant/pull/64) [#66](https://github.com/riley-williams/buoyant/pull/66)_
 
 Suggested API, code clarity and project configuration improvements.
 
