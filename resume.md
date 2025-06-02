@@ -6,7 +6,7 @@
 
 _💼 Current position:_ [Zenika](https://zenika.com/fr-FR/agency/lille) as a fullstack consultant
 
-_📍 Location:_ Lille, France (Open to remote work, adaptable to time zones)
+_📍 Location:_ Croix, France (Open to remote work, adaptable to time zones)
 
 **🚫 Not Open to Relocation**
 
