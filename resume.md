@@ -36,7 +36,7 @@ In-house, undocumented frameworks/languages.
 
 I don't like interacting with large-scale cloud infrastructures (e.g., GCP, Azure, AWS).
 
-#### Contact informations
+#### Contact information
 
 _📧 :_ contact@vic1707.xyz
 
