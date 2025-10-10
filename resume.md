@@ -24,7 +24,7 @@ Be given the time to do things well, having an eye on maintainability, performan
 
 _Tech:_
 
-- _Languages:_ Rust, Javascript, TypeScript, Python, Bash
+- _Languages:_ Rust, Javascript, TypeScript, Python, Bash, Go
 - _Frameworks:_ React, Vue, Angular, Astro, NestJS
 - _DevOps:_ Docker/Podman, Kubernetes, CI/CD, GitHub Actions
 
@@ -237,6 +237,35 @@ Provided fixes and enhancements for better container behavior and usability.
 _[#3350](https://github.com/rust-lang/rustup/issues/3350)_
 
 Found an issue in the `quiet` install mode, refactored said mode.
+
+
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" height=16 /> [community.hrobot](https://github.com/ansible-collections/community.hrobot)
+
+_[#163](https://github.com/ansible-collections/community.hrobot/pull/163)_
+
+Add support for Hetzner's storagebox subaccounts management.
+
+
+#### <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" height=16 /> [gomplate](https://github.com/hairyhenderson/gomplate)
+
+_[#2421](https://github.com/hairyhenderson/gomplate/pull/2421) [#2429](https://github.com/hairyhenderson/gomplate/pull/2429)_
+
+Add new utility functions around crypto algorithms.
+
+#### <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" height=16 /> [wg-portal](https://github.com/h44z/wg-portal)
+
+_[#515](https://github.com/h44z/wg-portal/pull/515)_
+
+Add the ability to skip local admin user creation.
+
+
+#### <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" height=16 /> [butane](https://github.com/coreos/butane)
+
+_[#629](https://github.com/coreos/butane/pull/629) [#631](https://github.com/coreos/butane/pull/631) [#644](https://github.com/coreos/butane/pull/644)_
+
+Add `gomplate` support for inline templating.
+Add the ability to make `butane` modules files with inline imports and translation.
+Add the ability to specify file-trees permissions.
 
 # Education
 
