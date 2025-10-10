@@ -54,6 +54,14 @@ _Location:_ Lille, Hauts-de-France, France · Hybrid
 
 _Role:_ Consultant, Fullstack Developer, Trainer
 
+### 🧑‍🏫 Teaching roles
+
+#### React · Remote · 1-3 oct 2025
+
+_5 attendees · satifaction: 9.25/10_
+
+Introduction to React, its history, an initiation to `redux`, `react-query`, performance optimisations etc...
+
 ### 🛠️ Projects
 
 #### <img src="https://zenika.com/static/images/favicon-16x16.png" /> Zenika · Career path · (Fullstack Typescript/Java)
@@ -91,6 +99,17 @@ _A data aggregator for Adeo's supply chain domain. Aggregating data from multipl
 
 Bug fixes, add new features while keeping a keen eye on performance, caching.
 Help maintain readable codebase, clean code and design patterns principles, allowing a great granularity in configuration options.
+
+#### <img src="https://rental.decathlon.com/favicon-16x16.png" /> [Decathlon](https://rental.decathlon.com/) · Rent-Front · (Fullstack Typescript)
+
+_The website for Decathlon rental and second life program._
+
+**Stack**: Typescript, SvelteKit (v3, v4, v5), NestJS, PostgreSql
+
+##### _⚓ Missions:_
+
+Major upgrades of the SvelteKit Framework (3 -> 4; 4 -> 5).
+Performance & logic improvements by reducing the number of API calls used in certain areas.
 
 ## <img src="https://cdn.prod.website-files.com/65b0d40ceac33e8d1e6f84e0/65c4b6b37709fc3e7735b9a8_logo-favicon.svg" /> [Les Fabricants](https://www.lesfabricants.io) · (Internship)
 
