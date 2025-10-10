@@ -64,7 +64,7 @@ Introduction to React, its history, an initiation to `redux`, `react-query`, per
 
 ### 🛠️ Projects
 
-#### <img src="https://zenika.com/static/images/favicon-16x16.png" /> Zenika · Career path · (Fullstack Typescript/Java)
+#### <img src="https://zenika.com/static/images/favicon-16x16.png" /> Zenika · Career path · (Fullstack Typescript/Java) · _sep-dec 2023_
 
 _Web-based career management platform for consultants._
 
@@ -77,7 +77,7 @@ Writing documentation for future onboardings.
 Improve database interactions leading to a 2x speed-up in certain areas.
 Creation of a CI/CD pipeline for automatic deployments and checks on the code.
 
-#### <img src="https://www.adeo.com/wp-content/themes/adeoptim/inc/favicons/favicon-16x16.png" /> [Adeo](https://www.adeo.com/) · LPI · (Fullstack Typescript)
+#### <img src="https://www.adeo.com/wp-content/themes/adeoptim/inc/favicons/favicon-16x16.png" /> [Adeo](https://www.adeo.com/) · LPI · (Fullstack Typescript) · _jan 2024 - aug 2025_
 
 _A product storing and validating information (dimensions, class, hazard level, etc...) about sold products and their transport packages._
 
@@ -89,7 +89,7 @@ Bug fixes, add new features and refactor previously existing code by following c
 Handle major version bump in kafka and database schemas.
 Process data from its entry in Adeo's systems to its publication once validated.
 
-#### <img src="https://www.adeo.com/wp-content/themes/adeoptim/inc/favicons/favicon-16x16.png" /> [Adeo](https://www.adeo.com/) · SPA · (Fullstack Typescript)
+#### <img src="https://www.adeo.com/wp-content/themes/adeoptim/inc/favicons/favicon-16x16.png" /> [Adeo](https://www.adeo.com/) · SPA · (Fullstack Typescript) · _sep 2024 - aug 2025_
 
 _A data aggregator for Adeo's supply chain domain. Aggregating data from multiple sources to provide centralized responses._
 
@@ -100,7 +100,7 @@ _A data aggregator for Adeo's supply chain domain. Aggregating data from multipl
 Bug fixes, add new features while keeping a keen eye on performance, caching.
 Help maintain readable codebase, clean code and design patterns principles, allowing a great granularity in configuration options.
 
-#### <img src="https://rental.decathlon.com/favicon-16x16.png" /> [Decathlon](https://rental.decathlon.com/) · Rent-Front · (Fullstack Typescript)
+#### <img src="https://rental.decathlon.com/favicon-16x16.png" /> [Decathlon](https://rental.decathlon.com/) · Rent-Front · (Fullstack Typescript) · _sep 2025 - present_
 
 _The website for Decathlon rental and second life program._
 
