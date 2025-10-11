@@ -4,7 +4,7 @@
 
 ### Open to opportunities.
 
-_💼 Current position:_ [Zenika](https://zenika.com/fr-FR/agency/lille) as a fullstack consultant
+_💼 Current position:_ [Zenika](https://zenika.com/fr-FR/agency/lille) as a consultant-teacher
 
 _📍 Location:_ Croix, France (Open to remote work, adaptable to time zones)
 
@@ -34,7 +34,7 @@ _Soft Skills:_ Problem-solving · Autonomy · Curiosity · Strong technical adap
 
 In-house, undocumented frameworks/languages.
 
-I don't like interacting with large-scale cloud infrastructures (e.g., GCP, Azure, AWS).
+Large-scale cloud infrastructures (e.g., GCP, Azure, AWS).
 
 #### Contact information
 
@@ -56,19 +56,19 @@ _Role:_ Consultant, Fullstack Developer, Trainer
 
 ### 🧑‍🏫 Teaching roles
 
-#### React · Remote · 1-3 oct 2025
+#### React · Remote · 1-3 oct. 2025
 
-_5 attendees · satifaction: 9.25/10_
+_5 attendees · satisfaction: 9.25/10_
 
-Introduction to React, its history, an initiation to `redux`, `react-query`, performance optimisations etc...
+Introduction to React, its history, an initiation to `redux`, `react-query`, performance optimisations, etc...
 
 ### 🛠️ Projects
 
-#### <img src="https://zenika.com/static/images/favicon-16x16.png" /> Zenika · Career path · (Fullstack Typescript/Java) · _sep-dec 2023_
+#### <img src="https://zenika.com/static/images/favicon-16x16.png" /> Zenika · Career path · (Fullstack Typescript/Java) · _sept. - dec. 2023_
 
 _Web-based career management platform for consultants._
 
-**Stack**: Typescript, React, Quarkus, Neo4j
+**Stack:** Typescript, React, Quarkus, Neo4j
 
 ##### _⚓ Missions:_
 
@@ -77,11 +77,11 @@ Writing documentation for future onboardings.
 Improve database interactions leading to a 2x speed-up in certain areas.
 Creation of a CI/CD pipeline for automatic deployments and checks on the code.
 
-#### <img src="https://www.adeo.com/wp-content/themes/adeoptim/inc/favicons/favicon-16x16.png" /> [Adeo](https://www.adeo.com/) · LPI · (Fullstack Typescript) · _jan 2024 - aug 2025_
+#### <img src="https://www.adeo.com/wp-content/themes/adeoptim/inc/favicons/favicon-16x16.png" /> [Adeo](https://www.adeo.com/) · LPI · (Fullstack Typescript) · _jan. 2024 - aug. 2025_
 
 _A product storing and validating information (dimensions, class, hazard level, etc...) about sold products and their transport packages._
 
-**Stack**: Typescript, Vuejs, NestJS, PostgreSql, Kafka, Cucumber
+**Stack:** Typescript, Vuejs, NestJS, PostgreSQL, Kafka, Cucumber
 
 ##### _⚓ Missions:_
 
@@ -89,31 +89,31 @@ Bug fixes, add new features and refactor previously existing code by following c
 Handle major version bump in kafka and database schemas.
 Process data from its entry in Adeo's systems to its publication once validated.
 
-#### <img src="https://www.adeo.com/wp-content/themes/adeoptim/inc/favicons/favicon-16x16.png" /> [Adeo](https://www.adeo.com/) · SPA · (Fullstack Typescript) · _sep 2024 - aug 2025_
+#### <img src="https://www.adeo.com/wp-content/themes/adeoptim/inc/favicons/favicon-16x16.png" /> [Adeo](https://www.adeo.com/) · SPA · (Fullstack Typescript) · _sept. 2024 - aug. 2025_
 
 _A data aggregator for Adeo's supply chain domain. Aggregating data from multiple sources to provide centralized responses._
 
-**Stack**: Typescript, NestJS, GraphQL, Cucumber
+**Stack:** Typescript, NestJS, GraphQL, Cucumber
 
 ##### _⚓ Missions:_
 
 Bug fixes, add new features while keeping a keen eye on performance, caching.
 Help maintain readable codebase, clean code and design patterns principles, allowing a great granularity in configuration options.
 
-#### <img src="https://rental.decathlon.com/favicon-16x16.png" /> [Decathlon](https://rental.decathlon.com/) · Rent-Front · (Fullstack Typescript) · _sep 2025 - present_
+#### <img src="https://rental.decathlon.com/favicon-16x16.png" /> [Decathlon](https://rental.decathlon.com/) · Rent-Front · (Fullstack Typescript) · _sept. 2025 - present_
 
 _The website for Decathlon rental and second life program._
 
-**Stack**: Typescript, SvelteKit (v3, v4, v5), NestJS, PostgreSql
+**Stack:** Typescript, SvelteKit (v3, v4, v5), NestJS, PostgreSQL
 
 ##### _⚓ Missions:_
 
-Major upgrades of the SvelteKit Framework (3 -> 4; 4 -> 5).
+Major upgrades of the SvelteKit Framework (3 → 4 ; 4 → 5).
 Performance & logic improvements by reducing the number of API calls used in certain areas.
 
 ## <img src="https://cdn.prod.website-files.com/65b0d40ceac33e8d1e6f84e0/65c4b6b37709fc3e7735b9a8_logo-favicon.svg" /> [Les Fabricants](https://www.lesfabricants.io) · (Internship)
 
-_sept. 2020 - août 2023_
+_sept. 2020 - aug. 2023_
 
 _Location:_ Roubaix & Croix, Hauts-de-France, France · Hybrid
 
@@ -125,18 +125,18 @@ _Role:_ Fullstack Developer
 
 _A web application allowing a complete view & management of every team and individual's skills set/calendar/resume/certifications etc..._
 
-**Stack**: Typescript/Javascript, Angular (v1.3 & v16.0), PHP, MongoDB
+**Stack:** Typescript/Javascript, Angular (v1.3 & v16.0), PHP, MongoDB
 
 ##### _⚓ Missions:_
 
 Dockerization of the dev setup, leading to a significant speedup for the onboarding process of new developers.
-Participate in the complete rewrite of the legacy frontend (AngularJS v1.3 -> Angular v16) while maintaining and contributing to the original application.
+Participate in the complete rewrite of the legacy frontend (AngularJS v1.3 → Angular v16) while maintaining and contributing to the original application.
 
 #### <img src="https://www.oney.fr/favicon.ico" /> [ONEY](https://www.oney.fr) · HIVE · (Fullstack Typescript)
 
 _One of ONEY's in-house project management application._
 
-**Stack**: Typescript, Angular, NestJS, MongoDB
+**Stack:** Typescript, Angular, NestJS, MongoDB
 
 ##### _⚓ Missions:_
 
@@ -198,7 +198,7 @@ A containerized solution that encapsulates a Wireguard server behind a WebSocket
 
 An [asdf](https://asdf-vm.com) plugin for installing any Rust-based tool available via [cargo-quickinstall](https://github.com/cargo-bins/cargo-quickinstall), enabling flexible and dynamic version management.
 
-<img alt="OSS Contributions" src="https://img.shields.io/badge/OSS_Contributions-_?style=for-the-badge&color=555555&logo=opensourceinitiative">
+## <img alt="OSS Contributions" src="https://img.shields.io/badge/OSS_Contributions-_?style=for-the-badge&color=555555&logo=opensourceinitiative">
 
 #### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" height=16 /> [rust-delegate](https://github.com/Kobzol/rust-delegate)
 
@@ -224,13 +224,11 @@ _[#164](https://github.com/taiki-e/auto_enums/pull/164)_
 
 Added a new derive for the `Into` trait, further imroving the capabilities of `auto_enums`.
 
-_Note:_ A second one with `TryFrom` is on its way.
-
 #### <img src="https://img.icons8.com/?id=9MJf0ngDwS8z" height=16 /> [docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn)
 
 _[#2875](https://github.com/haugene/docker-transmission-openvpn/pull/2875) [#2887](https://github.com/haugene/docker-transmission-openvpn/pull/2887)_
 
-Provided fixes and enhancements for better container behavior and usability.
+Provided fixes and enhancements for better container behavior and security.
 
 #### <img src="https://img.icons8.com/?id=9MJf0ngDwS8z" height=16 /> [rustup](https://github.com/rust-lang/rustup)
 
@@ -238,13 +236,11 @@ _[#3350](https://github.com/rust-lang/rustup/issues/3350)_
 
 Found an issue in the `quiet` install mode, refactored said mode.
 
-
 #### <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" height=16 /> [community.hrobot](https://github.com/ansible-collections/community.hrobot)
 
 _[#163](https://github.com/ansible-collections/community.hrobot/pull/163)_
 
 Add support for Hetzner's storagebox subaccounts management.
-
 
 #### <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" height=16 /> [gomplate](https://github.com/hairyhenderson/gomplate)
 
@@ -258,12 +254,11 @@ _[#515](https://github.com/h44z/wg-portal/pull/515)_
 
 Add the ability to skip local admin user creation.
 
-
 #### <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" height=16 /> [butane](https://github.com/coreos/butane)
 
 _[#629](https://github.com/coreos/butane/pull/629) [#631](https://github.com/coreos/butane/pull/631) [#644](https://github.com/coreos/butane/pull/644)_
 
-Add `gomplate` support for inline templating.
+Add `gomplate` integration support for inline templating.
 Add the ability to make `butane` modules files with inline imports and translation.
 Add the ability to specify file-trees permissions.
 
@@ -271,7 +266,7 @@ Add the ability to specify file-trees permissions.
 
 #### [Master of Science and Engineering](https://www.junia.com/fr/attestation-diplome/?key=DC0977B70D7111F0EB89F46B3E35A16AAAD24718B796EC999C793B96C38D6804WFF2Sjl5aFpiYUZRdENuWVdZc3ZjQm5YUHBBdUJDdkxNaE95M1ZoRVdmUTM2U1V2)
 
-_sept. 2020 - august 2023_
+_sept. 2020 - aug. 2023_
 
 _Location:_ JUNIA-ISEN · Lille · France
 
