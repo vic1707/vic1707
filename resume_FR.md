@@ -40,8 +40,6 @@ Infrastructures cloud à grande échelle (ex. : GCP, Azure, AWS).
 
 _📧 :_ contact@vic1707.xyz
 
-_📞 :_ +33 6 29 17 31 75
-
 ---
 
 # Expériences professionnelles
