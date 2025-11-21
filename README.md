@@ -2,4 +2,5 @@
 
 ## I currently work at [Zenika](https://zenika.com/fr-FR/agency/lille) as a fullstack consultant.
 
-Resume available [here](./resume.md).
+Resume available [here](./resume.md) (English).
+CV disponible [ici](./resume_FR.md) (Français).
