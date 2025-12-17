@@ -38,7 +38,7 @@ Large-scale cloud infrastructures (e.g., GCP, Azure, AWS).
 
 #### Contact information
 
-_📧 :_ contact@vic1707.xyz
+_📧 :_ contact@bofzilla.dev
 
 ---
 

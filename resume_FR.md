@@ -38,7 +38,7 @@ Infrastructures cloud à grande échelle (ex. : GCP, Azure, AWS).
 
 #### Contact
 
-_📧 :_ contact@vic1707.xyz
+_📧 :_ contact@bofzilla.dev
 
 ---
 
