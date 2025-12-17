@@ -184,9 +184,13 @@ A Discord bot created for the [Bistro Tech](https://discord.gg/rfs2nX4DgB) serve
 
 ## <img alt="Infra/Scripting projects" src="https://img.shields.io/badge/Infra/Scripting_projects-_?style=for-the-badge&color=555555&logo=gnubash">
 
-#### [My homelab](https://github.com/vic1707/homelab-config)
+#### [My homelab](https://github.com/vic1707/homelab-config) _(Complete rewrite to IaC)_
 
 A repository containing all my configuration files and automation scripts for my homelab.
+
+#### <img src="https://img.icons8.com/?id=Rc0Xn5AtE8kX" height=16 /> [ansible-collection-purelymail](https://github.com/vic1707/ansible-collection-purelymail) _(WIP)_
+
+An ansible collection wrapping Purelymail's API.
 
 #### [wiws](https://github.com/vic1707/wiws)
 
