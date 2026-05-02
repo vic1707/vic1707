@@ -30,11 +30,13 @@ _Tech:_
 
 _Soft Skills:_ Résolution de problèmes · Autonomie · Curiosité · Forte adaptabilité technique · Communication claire
 
+Ouvert à l'apprentissage de nouvelles technos!
+
 ### _🚫 Ce avec quoi je préfère ne pas travailler:_
 
 Frameworks ou langages internes non documentés.
 
-Infrastructures cloud à grande échelle (ex. : GCP, Azure, AWS).
+Infrastructures cloud à grande échelle (ex. GCP, Azure, AWS).
 
 #### Contact
 
@@ -54,11 +56,35 @@ _Rôle:_ Consultant, Développeur Fullstack, Formateur
 
 ### 🧑‍🏫 Rôles de formation
 
+#### Typescript · À distance · 2-3 apr. 2026
+
+_satisfaction des participants: 10/10_
+
+Introduction à Typescript en tant que premier language.
+
+#### Python · À distance · 4-6 mar. 2026
+
+_satisfaction des participants: 10/10_
+
+Introduction à Python en tant que premier language.
+
+#### Linux shell · À distance · 17 feb. 2026
+
+_satisfaction des participants: 10/10_
+
+Introduction au shell Linux.
+
+#### Docker · Sur site · 6 feb. 2026
+
+_satisfaction des participants: 10/10_
+
+Introduction à Docker, son histoire et concepts, optimisations de taille d'image, erreurs à éviter, securité.
+
 #### React · À distance · 1-3 oct 2025
 
-_5 participants · satisfaction: 9.25/10_
+_satisfaction des participants: 10/10_
 
-Introduction à React, son histoire, initiation à `redux`, `react-query`, performance optimisations, etc...
+Introduction à React, son histoire, initiation à `redux`, `react-query`, optimisations de performance.
 
 ### 🛠️ Projets
 
