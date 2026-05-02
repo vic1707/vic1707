@@ -226,69 +226,31 @@ Solution conteneurisée encapsulant un serveur Wireguard derrière un tunnel Web
 
 Plugin [asdf](https://asdf-vm.com) pour installer tout outil Rust disponible via [cargo-quickinstall](https://github.com/cargo-bins/cargo-quickinstall), offrant une gestion dynamique des versions.
 
-## <img alt="Contributions OSS" src="https://img.shields.io/badge/OSS_Contributions-_?style=for-the-badge&color=555555&logo=opensourceinitiative">
-
-#### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" height=16 /> [rust-delegate](https://github.com/Kobzol/rust-delegate)
-
-_[#81](https://github.com/Kobzol/rust-delegate/pull/81) [#82](https://github.com/Kobzol/rust-delegate/pull/82)_
-
-Ajout de deux nouveaux attributs à la délégation, dont la reprise d’un problème vieux de 2 ans.
+## <img alt="Et beaucoup de Contributions OSS" src="https://img.shields.io/badge/Et_beaucoup_de_Contributions_OSS-_?style=for-the-badge&color=555555&logo=opensourceinitiative">
 
 #### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" height=16 /> [defmt](https://github.com/knurling-rs/defmt)
 
-_[#937](https://github.com/knurling-rs/defmt/pull/937)_
-
-Ajout d’une nouvelle derive pour mieux appliquer le pattern new-type.
-
-#### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" height=16 /> [buoyant](https://github.com/riley-williams/buoyant)
-
-_[#28](https://github.com/riley-williams/buoyant/pull/28) [#29](https://github.com/riley-williams/buoyant/pull/29) [#43](https://github.com/riley-williams/buoyant/pull/43) [#64](https://github.com/riley-williams/buoyant/pull/64) [#66](https://github.com/riley-williams/buoyant/pull/66)_
-
-Propositions d’API, améliorations de la clarté du code et de la configuration du projet.
+Ajout de nouveaux attributs pour la derive `Format`.
 
 #### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" height=16 /> [auto_enums](https://github.com/taiki-e/auto_enums)
-
-_[#164](https://github.com/taiki-e/auto_enums/pull/164)_
 
 Ajout d’une nouvelle derive pour le trait `Into`.
 
 #### <img src="https://img.icons8.com/?id=9MJf0ngDwS8z" height=16 /> [docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn)
 
-_[#2875](https://github.com/haugene/docker-transmission-openvpn/pull/2875) [#2887](https://github.com/haugene/docker-transmission-openvpn/pull/2887)_
-
 Corrections et améliorations pour un meilleur comportement et une meilleure gestion de secrets du container.
 
-#### <img src="https://img.icons8.com/?id=9MJf0ngDwS8z" height=16 /> [rustup](https://github.com/rust-lang/rustup)
-
-_[#3350](https://github.com/rust-lang/rustup/issues/3350)_
-
-Correction d’un problème dans le mode d’installation silencieux (`quiet`), refactorisation du mode.
-
 #### <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" height=16 /> [community.hrobot](https://github.com/ansible-collections/community.hrobot)
-
-_[#163](https://github.com/ansible-collections/community.hrobot/pull/163)_
 
 Ajout du support pour la gestion des subaccounts de Storagebox Hetzner.
 
 #### <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" height=16 /> [gomplate](https://github.com/hairyhenderson/gomplate)
 
-_[#2421](https://github.com/hairyhenderson/gomplate/pull/2421) [#2429](https://github.com/hairyhenderson/gomplate/pull/2429)_
-
-Ajout de nouvelles fonctions utilitaires autour des algorithmes cryptographiques.
-
-#### <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" height=16 /> [wg-portal](https://github.com/h44z/wg-portal)
-
-_[#515](https://github.com/h44z/wg-portal/pull/515)_
-
-Ajout de la possibilité de sauter la création du compte admin local.
+Ajout de nouvelles fonctions utilitaires et de nouveaux algorithmes cryptographiques.
 
 #### <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" height=16 /> [butane](https://github.com/coreos/butane)
 
-_[#629](https://github.com/coreos/butane/pull/629) [#631](https://github.com/coreos/butane/pull/631) [#644](https://github.com/coreos/butane/pull/644)_
-
-Ajout du support d'une intégration avec `gomplate` pour le templating inline.
-Ajout de la possibilité de créer des fichiers modules `butane` avec imports inline et traduction.
-Ajout de la possibilité de spécifier les permissions des arborescences de fichiers.
+Ajout du support d'une intégration avec `gomplate` pour le templating inline, la possibilité de créer des fichiers modules `butane` avec imports inline et traduction et la possibilité de spécifier les permissions des arborescences de fichiers.
 
 # Formation
 

@@ -226,69 +226,31 @@ A containerized solution that encapsulates a Wireguard server behind a WebSocket
 
 An [asdf](https://asdf-vm.com) plugin for installing any Rust-based tool available via [cargo-quickinstall](https://github.com/cargo-bins/cargo-quickinstall), enabling flexible and dynamic version management.
 
-## <img alt="OSS Contributions" src="https://img.shields.io/badge/OSS_Contributions-_?style=for-the-badge&color=555555&logo=opensourceinitiative">
-
-#### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" height=16 /> [rust-delegate](https://github.com/Kobzol/rust-delegate)
-
-_[#81](https://github.com/Kobzol/rust-delegate/pull/81) [#82](https://github.com/Kobzol/rust-delegate/pull/82)_
-
-Add two new attributes to delegation, one being the revival of a 2yo issue.
+## <img alt="And many OSS Contributions" src="https://img.shields.io/badge/And_Many_OSS_Contributions-_?style=for-the-badge&color=555555&logo=opensourceinitiative">
 
 #### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" height=16 /> [defmt](https://github.com/knurling-rs/defmt)
 
-_[#937](https://github.com/knurling-rs/defmt/pull/937)_
-
-Add a new derive macro attribute targeting the well known new-type pattern.
-
-#### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" height=16 /> [buoyant](https://github.com/riley-williams/buoyant)
-
-_[#28](https://github.com/riley-williams/buoyant/pull/28) [#29](https://github.com/riley-williams/buoyant/pull/29) [#43](https://github.com/riley-williams/buoyant/pull/43) [#64](https://github.com/riley-williams/buoyant/pull/64) [#66](https://github.com/riley-williams/buoyant/pull/66)_
-
-Suggested API, code clarity and project configuration improvements.
+Add a new derives macro attributes.
 
 #### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" height=16 /> [auto_enums](https://github.com/taiki-e/auto_enums)
-
-_[#164](https://github.com/taiki-e/auto_enums/pull/164)_
 
 Added a new derive for the `Into` trait, further imroving the capabilities of `auto_enums`.
 
 #### <img src="https://img.icons8.com/?id=9MJf0ngDwS8z" height=16 /> [docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn)
 
-_[#2875](https://github.com/haugene/docker-transmission-openvpn/pull/2875) [#2887](https://github.com/haugene/docker-transmission-openvpn/pull/2887)_
-
 Provided fixes and enhancements for better container behavior and security.
 
-#### <img src="https://img.icons8.com/?id=9MJf0ngDwS8z" height=16 /> [rustup](https://github.com/rust-lang/rustup)
-
-_[#3350](https://github.com/rust-lang/rustup/issues/3350)_
-
-Found an issue in the `quiet` install mode, refactored said mode.
-
 #### <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" height=16 /> [community.hrobot](https://github.com/ansible-collections/community.hrobot)
-
-_[#163](https://github.com/ansible-collections/community.hrobot/pull/163)_
 
 Add support for Hetzner's storagebox subaccounts management.
 
 #### <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" height=16 /> [gomplate](https://github.com/hairyhenderson/gomplate)
 
-_[#2421](https://github.com/hairyhenderson/gomplate/pull/2421) [#2429](https://github.com/hairyhenderson/gomplate/pull/2429)_
-
-Add new utility functions around crypto algorithms.
-
-#### <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" height=16 /> [wg-portal](https://github.com/h44z/wg-portal)
-
-_[#515](https://github.com/h44z/wg-portal/pull/515)_
-
-Add the ability to skip local admin user creation.
+Add new utility functions and crypto algorithms.
 
 #### <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" height=16 /> [butane](https://github.com/coreos/butane)
 
-_[#629](https://github.com/coreos/butane/pull/629) [#631](https://github.com/coreos/butane/pull/631) [#644](https://github.com/coreos/butane/pull/644)_
-
-Add `gomplate` integration support for inline templating.
-Add the ability to make `butane` modules files with inline imports and translation.
-Add the ability to specify file-trees permissions.
+Add `gomplate` integration support for inline templating, the ability to make `butane` modules files with inline imports and translation and the ability to specify file-trees permissions.
 
 # Education
 
