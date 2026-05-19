@@ -198,6 +198,10 @@ A drop-in replacement for [serde](https://github.com/serde-rs/serde)’s `Deseri
 
 An embedded Raspberry Pi Pico–based adapter that translates console/PC controller inputs for use with other consoles and PCs.
 
+#### [cecetypes](https://github.com/vic1707/cecetypes)
+
+A schema + dynamic value layer for `serde`, derive and use schemas to ser-de values as if you had the original types.
+
 ## <img alt="Typescript projects" src="https://img.shields.io/badge/Typescript_projects-_?style=for-the-badge&color=555555&logo=typescript">
 
 #### [GHA-combine-PRs](https://github.com/vic1707/GHA-combine-PRs)

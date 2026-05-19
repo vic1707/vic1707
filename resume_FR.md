@@ -198,6 +198,10 @@ Un remplacement de la derive `Deserialize` de [serde](https://github.com/serde-r
 
 Un adaptateur embarqué basé sur Raspberry Pi Pico traduisant les entrées de manettes console/PC pour d’autres consoles et PCs.
 
+#### [cecetypes](https://github.com/vic1707/cecetypes)
+
+Génération et utilisation de schémas et valeurs dynamiques pour ser-de des valeurs comme si les vrais types étaient là.
+
 ## <img alt="Projets Typescript" src="https://img.shields.io/badge/Typescript_projects-_?style=for-the-badge&color=555555&logo=typescript">
 
 #### [GHA-combine-PRs](https://github.com/vic1707/GHA-combine-PRs)
