@@ -167,14 +167,6 @@ _Une application interne de gestion de projets développée par ONEY._
 Corrections de bugs, ajout de nouvelles fonctionnalités avec un accent particulier sur la sécurité (ex: conformité ISO 27001) et la performance.
 Création d’un Storybook et d’une bibliothèque de composants pour simplifier le développement et la revue des interfaces par les développeurs et designers.
 
-## <img height=32 width=32 src="https://i0.wp.com/exacom.fr/wp-content/uploads/2018/05/Logo-EXACOM-rvb-pp.png" /> [Exacom](https://exacom.fr) · (Alternance)
-
-_sept. 2019 – juin 2020_
-
-_Lieu:_ Capinghem, Hauts-de-France, France · Sur site
-
-_Rôle:_ Installateur privé
-
 # 🛠️ Projets personnels & OSS
 
 Je participe activement à des projets open-source en les utilisant dans mon travail et en contribuant à leur amélioration. Selon mon niveau de confiance et d’expertise, j’ouvre des pull requests avec corrections et améliorations ou je partage des suggestions et idées via des issues.
@@ -190,13 +182,21 @@ Un parseur et évaluateur d’expressions mathématiques pour Rust, conçu pour 
 
 Une macro procédurale qui simplifie la création de newtypes avec validation et nettoyage intégrés, inspirée de [nutype](https://github.com/greyblake/nutype).
 
+#### [pud](https://github.com/vic1707/pud)
+
+Une macro procédurale qui simplifie la création de d'enums permettant la mise à jour partielle de data.
+
 #### [serde-versioning](https://github.com/vic1707/serde-versioning)
 
 Un remplacement de la derive `Deserialize` de [serde](https://github.com/serde-rs/serde), ajoutant la gestion native de version pour simplifier la désérialisation des formats de données précédents.
 
-#### ceceti (privé _pour le moment_)
+#### ceceti (privé _pour le moment, OSS après_)
 
 Un adaptateur embarqué basé sur Raspberry Pi Pico traduisant les entrées de manettes console/PC pour d’autres consoles et PCs.
+
+#### rousseau (privé _pour le moment, OSS après_)
+
+Un switch/multiplexeur UART exposant les connexions via SSH.
 
 #### [cecetypes](https://github.com/vic1707/cecetypes)
 

@@ -167,14 +167,6 @@ _One of ONEY's in-house project management application._
 Bug fixes, add new features while keeping a keen eye on security (e.g.: ISO 27001) and performance.
 Creation of a project's storybook & library for easier components development and developers/designers reviews.
 
-## <img height=32 width=32 src="https://i0.wp.com/exacom.fr/wp-content/uploads/2018/05/Logo-EXACOM-rvb-pp.png" /> [Exacom](https://exacom.fr) · (Internship)
-
-_sept. 2019 - june 2020_
-
-_Location:_ Capinghem, Hauts-de-France, France · On site
-
-_Role:_ Private Installer
-
 # 🛠️ Side projects & OSS
 
 I actively engage with open-source projects by using them in my work and contributing improvements whenever I spot opportunities. Depending on my confidence and expertise, I either open pull requests with fixes and enhancements or share suggestions and ideas through issues.
@@ -190,13 +182,21 @@ A mathematical expression parser and evaluator for Rust, designed for simplicity
 
 A procedural macro that streamlines the creation of newtypes with built-in validation and sanitization, inspired by [nutype](https://github.com/greyblake/nutype).
 
+#### [pud](https://github.com/vic1707/pud)
+
+A procedural macro that streamlines the creation of enums holding partial data to update a struct.
+
 #### [serde-versioning](https://github.com/vic1707/serde-versioning)
 
 A drop-in replacement for [serde](https://github.com/serde-rs/serde)’s `Deserialize` derive macro, adding native versioning support to simplify deserialization of legacy data formats.
 
-#### ceceti (private _for now_)
+#### ceceti (private _for now, OSS soon_)
 
 An embedded Raspberry Pi Pico–based adapter that translates console/PC controller inputs for use with other consoles and PCs.
+
+#### rousseau (private _for now, OSS soon_)
+
+Am embedded UART switch/multiplexeur over SSH.
 
 #### [cecetypes](https://github.com/vic1707/cecetypes)
 
