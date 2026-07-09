@@ -198,7 +198,7 @@ Un adaptateur embarqué basé sur Raspberry Pi Pico traduisant les entrées de m
 
 Un switch/multiplexeur UART exposant les connexions via SSH.
 
-#### [cecetypes](https://github.com/vic1707/cecetypes)
+#### [cecetype](https://github.com/vic1707/cecetype)
 
 Génération et utilisation de schémas et valeurs dynamiques pour ser-de des valeurs comme si les vrais types étaient là.
 

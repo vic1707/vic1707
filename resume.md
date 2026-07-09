@@ -198,7 +198,7 @@ An embedded Raspberry Pi Pico–based adapter that translates console/PC control
 
 Am embedded UART switch/multiplexeur over SSH.
 
-#### [cecetypes](https://github.com/vic1707/cecetypes)
+#### [cecetype](https://github.com/vic1707/cecetype)
 
 A schema + dynamic value layer for `serde`, derive and use schemas to ser-de values as if you had the original types.
 
