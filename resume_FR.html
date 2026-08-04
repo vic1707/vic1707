@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Victor Lefebvre — Ingénieur Rust &amp; Embarqué Open Source</title>
+<meta name="description" content="Victor Lefebvre — Ingénieur Rust &amp; Embarqué Open Source / Consultant Fullstack. 5+ ans à concevoir des applications web en production et une pratique approfondie de Rust / embarqué via l'open source." />
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: { extend: { colors: { brand: "#b7410e" } } },
+  };
+</script>
+<style>
+  @page { size: A4; margin: 12mm; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .avoid-break { break-inside: avoid; }
+  .flowitem { display: flow-root; }
+  h3 > svg { display: none; }
+  @media screen {
+    body { background: #e5e7eb; }
+    .sheet { box-shadow: 0 12px 40px rgba(15, 23, 42, .18); }
+  }
+  @media print {
+    .no-print { display: none !important; }
+    body { background: #fff; }
+    .sheet { box-shadow: none; margin: 0; width: auto; max-width: none; }
+    a { text-decoration: none !important; }
+  }
+</style>
+</head>
+<body class="text-slate-800">
+
+  <div class="no-print fixed top-3 right-3 z-50 flex gap-2 text-xs">
+    <a href="./resume.html" class="rounded bg-white px-2.5 py-1 font-semibold text-slate-700 shadow ring-1 ring-slate-200 hover:bg-slate-50">EN</a>
+    <span class="rounded bg-brand px-2.5 py-1 font-semibold text-white">FR</span>
+    <button onclick="window.print()" class="rounded bg-slate-900 px-2.5 py-1 font-semibold text-white hover:bg-slate-700">Imprimer / PDF</button>
+  </div>
+
+  <main class="sheet mx-auto my-0 bg-white p-6 sm:my-6 sm:p-[12mm]" style="width:210mm; max-width:100%; display:flow-root;">
+
+    <header class="flowitem flex items-start justify-between gap-3 border-b border-slate-200 pb-4 sm:gap-6">
+      <div class="min-w-0">
+        <h1 class="text-[26px] font-extrabold leading-none tracking-tight text-slate-900 sm:text-[30px]">Victor Lefebvre</h1>
+        <p class="mt-1 text-[15px] font-semibold text-brand">Ingénieur Rust &amp; Embarqué Open Source · Consultant Fullstack</p>
+
+      <div class="mt-3 flex flex-wrap gap-x-5 gap-y-1.5 text-[12px] text-slate-600">
+        <span class="inline-flex items-center gap-1.5">
+          <svg viewBox="0 0 24 24" fill="currentColor" class="h-3.5 w-3.5 shrink-0 text-slate-400"><path fill-rule="evenodd" d="M11.54 22.351l.07.04.028.016a.76.76 0 0 0 .723 0l.028-.015.071-.041a16.975 16.975 0 0 0 1.144-.742 19.58 19.58 0 0 0 2.683-2.282c1.944-1.99 3.963-4.98 3.963-8.827a8.25 8.25 0 0 0-16.5 0c0 3.846 2.02 6.837 3.963 8.827a19.58 19.58 0 0 0 2.682 2.282 16.975 16.975 0 0 0 1.145.742ZM12 13.5a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z" clip-rule="evenodd"/></svg>
+          Croix, France
+        </span>
+        <a href="mailto:contact@bofzilla.dev" class="inline-flex items-center gap-1.5 hover:text-brand">
+          <svg viewBox="0 0 24 24" fill="currentColor" class="h-3.5 w-3.5 shrink-0 text-slate-400"><path d="M1.5 8.67v8.58a3 3 0 0 0 3 3h15a3 3 0 0 0 3-3V8.67l-8.928 5.493a3 3 0 0 1-3.144 0L1.5 8.67Z"/><path d="M22.5 6.908V6.75a3 3 0 0 0-3-3h-15a3 3 0 0 0-3 3v.158l9.714 5.978a1.5 1.5 0 0 0 1.572 0L22.5 6.908Z"/></svg>
+          contact@bofzilla.dev
+        </a>
+        <a href="https://github.com/vic1707" class="inline-flex items-center gap-1.5 hover:text-brand">
+          <svg viewBox="0 0 24 24" fill="currentColor" class="h-3.5 w-3.5 shrink-0 text-slate-400"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg>
+          github.com/vic1707
+        </a>
+        <a href="https://www.linkedin.com/in/vic1707" class="inline-flex items-center gap-1.5 hover:text-brand">
+          <svg viewBox="0 0 24 24" fill="currentColor" class="h-3.5 w-3.5 shrink-0 text-slate-400"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+          linkedin.com/in/vic1707
+        </a>
+      </div>
+
+        <div class="mt-2.5 flex flex-wrap items-center gap-x-3 gap-y-1 text-[11px]">
+          <span class="inline-flex items-center gap-1.5 rounded-full bg-emerald-50 px-2.5 py-0.5 font-semibold text-emerald-700 ring-1 ring-emerald-200">
+            <span class="h-1.5 w-1.5 rounded-full bg-emerald-500"></span> Ouvert aux opportunités
+          </span>
+          <span class="text-slate-500">Télétravail possible · adaptable aux fuseaux · sans relocalisation</span>
+        </div>
+      </div>
+      <img src="assets/profile.png" onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/vic1707/vic1707/858bc1b962a4f4120be1ff9fbc5889bf550d735c/assets/profile.png'" alt="Portrait de Victor Lefebvre" width="112" height="112" class="h-20 w-20 shrink-0 rounded-full object-cover object-top shadow-sm ring-4 ring-slate-100 sm:h-28 sm:w-28" />
+    </header>
+
+    <p class="mt-4 text-[12.5px] leading-relaxed text-slate-700">
+      Consultant fullstack avec <strong>5+ ans</strong> à concevoir et maintenir des applications web en production — React, Vue, Svelte, Angular, NestJS. De plus en plus tourné vers <strong>Rust</strong> et l'ingénierie embarquée / systèmes via l'open source : macros procédurales, parseurs, bibliothèques <code class="rounded bg-slate-100 px-1 text-[11px]">no_std</code> et firmware RP2040, avec <strong>25+ PR mergées</strong> (dont 6 dans Embassy) et <strong>30k+ téléchargements</strong> de crates.
+    </p>
+
+    <div class="pt-4">
+
+      <aside class="mb-4 w-full float-none sm:float-left sm:w-[31%] sm:pr-5">
+        <h2 class="border-b-2 border-brand pb-1 text-[15px] font-bold uppercase tracking-widest text-slate-800">Compétences</h2>
+        <div class="mt-2 space-y-2.5 text-[11.5px]">
+          <div>
+            <p class="font-semibold text-slate-500">Langages</p>
+            <p class="text-slate-700">Rust · TypeScript · JavaScript · Python · Go · Bash</p>
+          </div>
+          <div>
+            <p class="font-semibold text-slate-500">Frontend</p>
+            <p class="text-slate-700">React · Vue · Svelte / SvelteKit · Angular · Astro</p>
+          </div>
+          <div>
+            <p class="font-semibold text-slate-500">Backend</p>
+            <p class="text-slate-700">NestJS · Node.js · Quarkus · GraphQL · REST</p>
+          </div>
+          <div>
+            <p class="font-semibold text-slate-500">Données</p>
+            <p class="text-slate-700">PostgreSQL · MongoDB · Neo4j · Kafka · BigQuery</p>
+          </div>
+          <div>
+            <p class="font-semibold text-slate-500">Embarqué</p>
+            <p class="text-slate-700">Rust · RP2040 / Pico · Embassy · PIO · no_std</p>
+          </div>
+          <div>
+            <p class="font-semibold text-slate-500">DevOps / Infra</p>
+            <p class="text-slate-700">Docker / Podman · Kubernetes · CI/CD · GitHub Actions · Ansible · IaC</p>
+          </div>
+          <div>
+            <p class="font-semibold text-slate-500">Ingénierie</p>
+            <p class="text-slate-700">Tests · Conception d'API · Accessibilité (RGAA) · Revue de code · Mentorat</p>
+          </div>
+        </div>
+
+        <h2 class="mt-5 border-b-2 border-brand pb-1 text-[15px] font-bold uppercase tracking-widest text-slate-800">Langues</h2>
+        <ul class="mt-2 space-y-0.5 text-[11.5px] text-slate-700">
+          <li><span class="font-semibold">Français</span> — Langue maternelle</li>
+          <li><span class="font-semibold">Anglais</span> — Professionnel</li>
+        </ul>
+
+        <h2 class="mt-5 border-b-2 border-brand pb-1 text-[15px] font-bold uppercase tracking-widest text-slate-800">Formation</h2>
+        <ul class="mt-2 space-y-2 text-[11.5px] text-slate-700">
+          <li>
+            <p class="font-semibold text-slate-900">Diplôme d'ingénieur (grade de master)</p>
+            <p class="text-slate-500">JUNIA-ISEN, Lille · 2020–2023</p>
+          </li>
+          <li>
+            <p class="font-semibold text-slate-900">BTS SNIR</p>
+            <p class="text-slate-500">Systèmes Numériques, Informatique &amp; Réseaux</p>
+            <p class="text-slate-500">Lycée Ozanam, Lille · 2018–2020</p>
+          </li>
+        </ul>
+      </aside>
+
+      <section class="sm:ml-[31%]">
+      <!-- Expériences -->
+      <h2 class="flowitem border-b-2 border-brand pb-1 text-[15px] font-bold uppercase tracking-widest text-slate-800">Expériences</h2>
+
+      <!-- Zenika -->
+      <div class="flowitem avoid-break mt-3">
+        <div class="flex flex-wrap items-baseline justify-between gap-x-2">
+          <h3 class="text-[14.5px] font-bold text-slate-900">Zenika <span class="font-medium text-slate-500">— Consultant · Développeur Fullstack · Formateur</span></h3>
+          <span class="text-[11px] font-medium text-slate-500">Sep 2023 – Présent</span>
+        </div>
+        <p class="text-[11px] text-slate-500">Lille, France · Hybride</p>
+      </div>
+
+      <div class="flowitem avoid-break mt-3 border-l-2 border-slate-200 pl-3">
+        <div class="flex flex-wrap items-baseline justify-between gap-x-2">
+          <h4 class="text-[13px] font-semibold text-slate-900">Decathlon — Rent-Front</h4>
+          <span class="text-[11px] text-slate-500">Sep 2025 – Présent</span>
+        </div>
+        <p class="text-[10.5px] font-medium text-brand">Fullstack · TypeScript, SvelteKit, Svelte (3/4/5), NestJS, PostgreSQL</p>
+        <ul class="mt-1 list-disc space-y-0.5 pl-4 text-[12px] text-slate-700">
+          <li>Pilotage des montées de version majeures de Svelte (3 → 4 → 5) sur la plateforme SvelteKit de location / seconde vie.</li>
+          <li>Refonte des requêtes de stock en appels API groupés (<strong>~3–4× moins de requêtes</strong>), supprimant le throttling lié aux limites de débit de l'approche précédente (par article).</li>
+          <li>Prise en charge de bout en bout de la remédiation d'accessibilité RGAA, faisant passer la conformité estimée de <strong>~50 % à ~80 %</strong> ; correction de chaque problème sous le contrôle de l'équipe.</li>
+        </ul>
+      </div>
+
+      <div class="flowitem avoid-break mt-3 border-l-2 border-slate-200 pl-3">
+        <div class="flex flex-wrap items-baseline justify-between gap-x-2">
+          <h4 class="text-[13px] font-semibold text-slate-900">Adeo — SPA <span class="font-normal text-slate-500">(agrégateur de données supply-chain)</span></h4>
+          <span class="text-[11px] text-slate-500">Sep 2024 – Août 2025</span>
+        </div>
+        <p class="text-[10.5px] font-medium text-brand">Fullstack · TypeScript, NestJS, GraphQL, Cucumber</p>
+        <ul class="mt-1 list-disc space-y-0.5 pl-4 text-[12px] text-slate-700">
+          <li>Transformation d'un PoC interne en produit maintenu agrégeant <strong>5–7 sources de données</strong> derrière un unique appel GraphQL souvent mis en cache — remplaçant les multiples allers-retours par client.</li>
+          <li>Conception d'un cache par champ avec TTL par source, gardant la couche d'agrégation configurable à mesure que les sources évoluaient.</li>
+        </ul>
+      </div>
+
+      <div class="flowitem avoid-break mt-3 border-l-2 border-slate-200 pl-3">
+        <div class="flex flex-wrap items-baseline justify-between gap-x-2">
+          <h4 class="text-[13px] font-semibold text-slate-900">Adeo — LPI <span class="font-normal text-slate-500">(données produits &amp; emballages)</span></h4>
+          <span class="text-[11px] text-slate-500">Jan 2024 – Août 2025</span>
+        </div>
+        <p class="text-[10.5px] font-medium text-brand">Fullstack · TypeScript, Vue, NestJS, PostgreSQL, Kafka, Cucumber</p>
+        <ul class="mt-1 list-disc space-y-0.5 pl-4 text-[12px] text-slate-700">
+          <li>Construction de l'ingestion des <strong>plans de palettisation</strong> et intégration BigQuery dans un système de validation de <strong>250k+ enregistrements</strong> avec historique, UI web et événements Kafka.</li>
+          <li>Coordination d'un <strong>changement de schéma cassant auprès de toutes les équipes en aval</strong>, puis mise en production sans interruption.</li>
+        </ul>
+      </div>
+
+      <div class="flowitem avoid-break mt-3 border-l-2 border-slate-200 pl-3">
+        <div class="flex flex-wrap items-baseline justify-between gap-x-2">
+          <h4 class="text-[13px] font-semibold text-slate-900">Zenika — Career Path</h4>
+          <span class="text-[11px] text-slate-500">Sep – Déc 2023</span>
+        </div>
+        <p class="text-[10.5px] font-medium text-brand">Fullstack · TypeScript, React, Quarkus, Neo4j</p>
+        <ul class="mt-1 list-disc space-y-0.5 pl-4 text-[12px] text-slate-700">
+          <li>Rôle de <strong>lead technique de fait</strong> sur la migration TypeScript et les montées de version React pour une équipe de 3–4 personnes ; refactorisation, corrections et documentation d'onboarding.</li>
+          <li>Connexion et rendu du graphe de career path <strong>2× plus rapides</strong>.</li>
+        </ul>
+      </div>
+
+      <div class="flowitem avoid-break mt-3 border-l-2 border-slate-200 pl-3">
+        <div class="flex flex-wrap items-baseline justify-between gap-x-2">
+          <h4 class="text-[13px] font-semibold text-slate-900">Formation Zenika</h4>
+          <span class="text-[11px] text-slate-500">2023 – Présent</span>
+        </div>
+        <p class="mt-1 text-[12px] text-slate-700">Animation de <strong>6 formations professionnelles</strong> sur React, TypeScript, Python, Docker, Linux et le shell. Session React d'octobre 2025 : <strong>5 participants · 9,25/10.</strong></p>
+      </div>
+
+      <!-- Les Fabricants -->
+      <div class="flowitem avoid-break mt-5">
+        <div class="flex flex-wrap items-baseline justify-between gap-x-2">
+          <h3 class="text-[14.5px] font-bold text-slate-900">Les Fabricants <span class="font-medium text-slate-500">— Développeur Fullstack (Alternance)</span></h3>
+          <span class="text-[11px] font-medium text-slate-500">Sep 2020 – Août 2023</span>
+        </div>
+        <p class="text-[11px] text-slate-500">Roubaix &amp; Croix, France · Hybride</p>
+      </div>
+
+      <div class="flowitem avoid-break mt-3 border-l-2 border-slate-200 pl-3">
+        <div class="flex flex-wrap items-baseline justify-between gap-x-2">
+          <h4 class="text-[13px] font-semibold text-slate-900">ONEY — HIVE <span class="font-normal text-slate-500">(application interne de gestion de projets)</span></h4>
+        </div>
+        <p class="text-[10.5px] font-medium text-brand">Fullstack · TypeScript, Angular, NestJS, MongoDB</p>
+        <ul class="mt-1 list-disc space-y-0.5 pl-4 text-[12px] text-slate-700">
+          <li>Création d'une <strong>bibliothèque de composants Storybook (plusieurs dizaines de composants)</strong> pour fluidifier le développement et la revue développeurs/designers.</li>
+          <li>Livraison de fonctionnalités avec un focus sécurité (ISO 27001) et performance.</li>
+        </ul>
+      </div>
+
+      <div class="flowitem avoid-break mt-3 border-l-2 border-slate-200 pl-3">
+        <div class="flex flex-wrap items-baseline justify-between gap-x-2">
+          <h4 class="text-[13px] font-semibold text-slate-900">Boston Scientific — eCare &amp; eCare 2.0</h4>
+        </div>
+        <p class="text-[10.5px] font-medium text-brand">Fullstack · TypeScript/JavaScript, Angular (1.3 &amp; 16), PHP, MongoDB</p>
+        <ul class="mt-1 list-disc space-y-0.5 pl-4 text-[12px] text-slate-700">
+          <li><strong>Dockerisation de l'environnement de dev : onboarding réduit de plusieurs jours à ~1 heure</strong>, et suppression d'une dépendance logicielle payante coûteuse.</li>
+          <li>Participation à la <strong>réécriture complète AngularJS 1.3 → Angular 16</strong> tout en maintenant l'application legacy.</li>
+        </ul>
+      </div>
+
+      </section>
+      <div class="clear-both"></div>
+
+      <!-- Open Source & Rust -->
+      <h2 class="flowitem mt-6 border-b-2 border-brand pb-1 text-[15px] font-bold uppercase tracking-widest text-slate-800">Open Source &amp; Rust</h2>
+      <p class="flowitem mt-2 text-[12px] leading-relaxed text-slate-700">
+        Je contribue à des projets Rust, Go et d'infrastructure, dont <a href="https://github.com/embassy-rs/embassy/pulls?q=is%3Apr+author%3Avic1707+is%3Amerged" class="font-semibold text-brand hover:underline">Embassy</a>. Historique complet sur mon
+        <a href="https://github.com/vic1707" class="font-medium text-brand hover:underline">GitHub</a>.
+      </p>
+
+      <div class="flowitem avoid-break mt-3">
+        <h3 class="flex items-center gap-1.5 text-[12.5px] font-bold uppercase tracking-wider text-slate-700">
+          <svg viewBox="0 0 24 24" fill="currentColor" class="h-3.5 w-3.5 text-brand"><path d="M23.8346 11.7033l-1.0073-.6236a13.7268 13.7268 0 00-.0283-.2936l.8656-.8069a.3483.3483 0 00-.1154-.578l-1.1066-.414a8.4958 8.4958 0 00-.087-.2856l.6904-.9587a.3462.3462 0 00-.2257-.5446l-1.1663-.1894a9.3574 9.3574 0 00-.1407-.2622l.49-1.0761a.3437.3437 0 00-.0274-.3361.3486.3486 0 00-.3006-.154l-1.1845.0416a6.7444 6.7444 0 00-.1873-.2268l.2723-1.153a.3472.3472 0 00-.417-.4172l-1.1532.2724a14.0183 14.0183 0 00-.2278-.1873l.0415-1.1845a.3442.3442 0 00-.49-.328l-1.076.491c-.0872-.0476-.1742-.0952-.2623-.1407l-.1903-1.1673A.3483.3483 0 0016.256.955l-.9597.6905a8.4867 8.4867 0 00-.2855-.086l-.414-1.1066a.3483.3483 0 00-.5781-.1154l-.8069.8666a9.2936 9.2936 0 00-.2936-.0284L12.2946.1683a.3462.3462 0 00-.5892 0l-.6236 1.0073a13.7383 13.7383 0 00-.2936.0284L9.9803.3374a.3462.3462 0 00-.578.1154l-.4141 1.1065c-.0962.0274-.1903.0567-.2855.086L7.744.955a.3483.3483 0 00-.5447.2258L7.009 2.348a9.3574 9.3574 0 00-.2622.1407l-1.0762-.491a.3462.3462 0 00-.49.328l.0416 1.1845a7.9826 7.9826 0 00-.2278.1873L3.8413 3.425a.3472.3472 0 00-.4171.4171l.2713 1.1531c-.0628.075-.1255.1509-.1863.2268l-1.1845-.0415a.3462.3462 0 00-.328.49l.491 1.0761a9.167 9.167 0 00-.1407.2622l-1.1662.1894a.3483.3483 0 00-.2258.5446l.6904.9587a13.303 13.303 0 00-.087.2855l-1.1065.414a.3483.3483 0 00-.1155.5781l.8656.807a9.2936 9.2936 0 00-.0283.2935l-1.0073.6236a.3442.3442 0 000 .5892l1.0073.6236c.008.0982.0182.1964.0283.2936l-.8656.8079a.3462.3462 0 00.1155.578l1.1065.4141c.0273.0962.0567.1914.087.2855l-.6904.9587a.3452.3452 0 00.2268.5447l1.1662.1893c.0456.088.0922.1751.1408.2622l-.491 1.0762a.3462.3462 0 00.328.49l1.1834-.0415c.0618.0769.1235.1528.1873.2277l-.2713 1.1541a.3462.3462 0 00.4171.4161l1.153-.2713c.075.0638.151.1255.2279.1863l-.0415 1.1845a.3442.3442 0 00.49.327l1.0761-.49c.087.0486.1741.0951.2622.1407l.1903 1.1662a.3483.3483 0 00.5447.2268l.9587-.6904a9.299 9.299 0 00.2855.087l.414 1.1066a.3452.3452 0 00.5781.1154l.8079-.8656c.0972.0111.1954.0203.2936.0294l.6236 1.0073a.3472.3472 0 00.5892 0l.6236-1.0073c.0982-.0091.1964-.0183.2936-.0294l.8069.8656a.3483.3483 0 00.578-.1154l.4141-1.1066a8.4626 8.4626 0 00.2855-.087l.9587.6904a.3452.3452 0 00.5447-.2268l.1903-1.1662c.088-.0456.1751-.0931.2622-.1407l1.0762.49a.3472.3472 0 00.49-.327l-.0415-1.1845a6.7267 6.7267 0 00.2267-.1863l1.1531.2713a.3472.3472 0 00.4171-.416l-.2713-1.1542c.0628-.0749.1255-.1508.1863-.2278l1.1845.0415a.3442.3442 0 00.328-.49l-.49-1.076c.0475-.0872.0951-.1742.1407-.2623l1.1662-.1893a.3483.3483 0 00.2258-.5447l-.6904-.9587.087-.2855 1.1066-.414a.3462.3462 0 00.1154-.5781l-.8656-.8079c.0101-.0972.0202-.1954.0283-.2936l1.0073-.6236a.3442.3442 0 000-.5892zM6.8369 20.024a.714.714 0 11-.2997-1.396.714.714 0 01.2997 1.396zM6.5372 8.9972a.7137.7137 0 11-1.304.5791.7137.7137 0 011.304-.579zm-.8352 1.9813l1.5347-.6824a.65.65 0 00.33-.8585l-.3158-.7147h1.2432v5.6025H3.5669a8.7753 8.7753 0 01-.2834-3.348zm6.7343-.5437V8.7836h2.9601c.153 0 1.0792.1772 1.0792.8697 0 .575-.7107.7815-1.2948.7815zm10.7574 1.4862c0 .2187-.008.4363-.0243.651h-.9c-.09 0-.1265.0586-.1265.1477v.413c0 .973-.5487 1.1846-1.0296 1.2382-.4576.0517-.9648-.1913-1.0275-.4717-.2704-1.5186-.7198-1.8436-1.4305-2.4034.8817-.5599 1.799-1.386 1.799-2.4915 0-1.1936-.819-1.9458-1.3769-2.3153-.7825-.5163-1.6491-.6195-1.883-.6195H5.4682a8.7651 8.7651 0 014.907-2.7699l1.0974 1.151a.648.648 0 00.9182.0213l1.227-1.1743a8.7753 8.7753 0 016.0044 4.2762l-.8403 1.8982a.652.652 0 00.33.8585l1.6178.7188c.0283.2875.0425.577.0425.8717zm-9.3006-9.5993a.7128.7128 0 11.984 1.0316.7137.7137 0 01-.984-1.0316zm8.3389 6.71a.7107.7107 0 01.9395-.3625.7137.7137 0 11-.9405.3635z"/></svg>
+          Projets Rust sélectionnés
+        </h3>
+        <ul class="mt-2 space-y-1.5 text-[12px] text-slate-700">
+          <li><a href="https://github.com/vic1707/cecetype" class="font-semibold text-brand hover:underline">cecetype</a> — couche de schémas et valeurs dynamiques <code class="rounded bg-slate-100 px-1 text-[11px]">no_std</code> sans allocation, préservant les formats Serde entre CLI, UI web et outils de test générés.</li>
+          <li><a href="https://github.com/vic1707/serde-versioning" class="font-semibold text-brand hover:underline">serde-versioning</a> <span class="text-[10px] text-slate-400">★19</span> — remplacement direct de la derive <code class="rounded bg-slate-100 px-1 text-[11px]">Deserialize</code> de serde, ajoutant un versioning natif pour les anciens formats.</li>
+          <li><a href="https://github.com/vic1707/nnn" class="font-semibold text-brand hover:underline">nnn</a> <span class="text-[10px] text-slate-400">★19</span> — macro procédurale pour newtypes avec validation et sanitisation intégrées (inspirée de nutype).</li>
+          <li><span class="font-semibold text-slate-900">rousseau</span> <span class="text-[10px] text-slate-400">(privé)</span> — <strong>multiplexeur UART RP2040 via SSH</strong> ; un driver PIO maison pilote jusqu'à 8 UART sur plusieurs variantes de Pico.</li>
+          <li><a href="https://github.com/vic1707/xprs" class="font-semibold text-brand hover:underline">xprs</a> — parseur et évaluateur d'expressions mathématiques pour Rust, rapide et extensible.</li>
+          <li><a href="https://github.com/vic1707/pud" class="font-semibold text-brand hover:underline">pud</a> — macro procédurale générant des mises à jour typées, composables et compatibles <code class="rounded bg-slate-100 px-1 text-[11px]">no_std</code> pour les structs Rust.</li>
+        </ul>
+      </div>
+
+      <div class="flowitem avoid-break mt-3">
+        <h3 class="text-[12.5px] font-bold uppercase tracking-wider text-slate-700">Open source élargi</h3>
+        <p class="mt-1 text-[12px] text-slate-700"><a href="https://github.com/coreos/butane/pulls?q=is%3Apr+author%3Avic1707+is%3Amerged" class="font-semibold text-brand hover:underline">3 pull requests mergées dans CoreOS Butane</a> (Go), une contribution mergée dans <a href="https://github.com/ansible-collections/community.hrobot/pull/163" class="text-brand hover:underline">community.hrobot</a>, ainsi que la maintenance d'une <a href="https://github.com/vic1707/ansible-collection-purelymail" class="text-brand hover:underline">collection Ansible</a> et d'une infrastructure <a href="https://github.com/vic1707/homelab" class="text-brand hover:underline">homelab publique</a>.</p>
+      </div>
+
+    </div>
+  </main>
+</body>
+</html>
