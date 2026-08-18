@@ -5,11 +5,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Victor Lefebvre — Ingénieur Rust &amp; Embarqué Open Source</title>
 <meta name="description" content="Victor Lefebvre — Ingénieur Rust &amp; Embarqué Open Source / Consultant Fullstack. 5+ ans à concevoir des applications web en production et une pratique approfondie de Rust / embarqué via l'open source." />
-<script src="https://cdn.tailwindcss.com"></script>
 <script>
-  tailwind.config = {
-    theme: { extend: { colors: { brand: "#b7410e" } } },
+  const script = document.createElement("script");
+  script.src = "https://cdn.tailwindcss.com";
+  script.onload = () => {
+    tailwind.config = {
+      theme: { extend: { colors: { brand: "#b7410e" } } },
+    };
   };
+  document.head.append(script);
 </script>
 <style>
   @page { size: A4; margin: 10mm; }

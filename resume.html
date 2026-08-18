@@ -5,11 +5,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Victor Lefebvre — Rust &amp; Embedded Open Source Engineer</title>
 <meta name="description" content="Victor Lefebvre — Rust &amp; Embedded Open Source Engineer / Fullstack Consultant. 5+ years building production web apps and extensive Rust / embedded open-source work." />
-<script src="https://cdn.tailwindcss.com"></script>
 <script>
-  tailwind.config = {
-    theme: { extend: { colors: { brand: "#b7410e" } } },
+  const script = document.createElement("script");
+  script.src = "https://cdn.tailwindcss.com";
+  script.onload = () => {
+    tailwind.config = {
+      theme: { extend: { colors: { brand: "#b7410e" } } },
+    };
   };
+  document.head.append(script);
 </script>
 <style>
   @page { size: A4; margin: 10mm; }
